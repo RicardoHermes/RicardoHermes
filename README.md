@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @RicardoHermes
-- 👀 I’m interested in , aprender novas tecnologias e entrar no mercado de trabalho.
-- 🌱 I’m currently learning, machine learning, python, mysql, A.I.
-- 💞️ I’m looking to collaborate on, novos projetos relacionados a machine learning 
-- 📫 How to reach me ... ricardohermes1901@gmail.com
+# Olá, eu sou Ricardo Hermes! 👋
 
-<!---
-RicardoHermes/RicardoHermes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Sobre mim
+Eu sou um estudante de tecnologia que adora aprender novas habilidades e explorar novas tecnologias. Atualmente, estou aprendendo aprendizado de máquina, python, mysql e IA | Full Stack.
+
+## O que eu faço
+Eu gosto de trabalhar em projetos relacionados ao aprendizado de máquina e estou sempre procurando colaborar em novos projetos emocionantes. Se você tem um projeto interessante em mente, não hesite em entrar em contato comigo!
+
+## Formação Full Stack da Refatorando
+Atualmente, estou fazendo a formação Full Stack da Refatorando, que é uma formação completa com mais de 14 cursos e +80 horas de aula. O curso é projetado para ajudá-lo a aprender habilidades em desenvolvimento web, incluindo React, JavaScript, NodeJS, NextJS e muito mais. 
+
+## Como entrar em contato comigo
+Você pode entrar em contato comigo pelo meu e-mail: ricardohermes1901@gmail.com. Ficarei feliz em ouvir de você!
