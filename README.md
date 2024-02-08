@@ -1,7 +1,7 @@
 # Olá, eu sou Ricardo Hermes! 👋
 
 ## Sobre mim
-Eu sou um estudante de tecnologia que adora aprender novas habilidades e explorar novas tecnologias. Atualmente, estou aprendendo aprendizado de máquina, python, mysql e IA | Full Stack.
+Eu sou um estudante de Eng de Software que adora aprender novas habilidades e explorar tecnologias. Atualmente, estou aprendendo aprendizado de máquina, python, mysql e IA | Full Stack.
 
 ## O que eu faço
 Eu gosto de trabalhar em projetos relacionados ao aprendizado de máquina e estou sempre procurando colaborar em novos projetos emocionantes. Se você tem um projeto interessante em mente, não hesite em entrar em contato comigo!
